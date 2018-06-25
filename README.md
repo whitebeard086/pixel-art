@@ -1,7 +1,16 @@
-### Github Tutorial
+# Pixel Art Maker Project
 
-####1. [How to Host Files on Github](http://www.labnol.org/internet/free-file-hosting-github/29092/)
+## Table of Contents
 
-####2. [Github Gists for Non-Developers](http://www.labnol.org/internet/github-gist-tutorial/28499/)
+* [Instructions](#instructions)
+* [Contributing](#contributing)
 
-Append ?raw=true to any file URL on Github to get the direct link.
+## Instructions
+
+To get started, open `designs.js` and start building out the app's functionality.
+
+For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+
+## Contributing
+
+This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
